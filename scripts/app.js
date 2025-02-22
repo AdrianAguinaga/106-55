@@ -7,6 +7,6 @@ function init(){
     console.log("im the init fuction");
     hello();
 }
-//new code
+//new code change
 
 window.onload = hello;
